@@ -4,6 +4,6 @@ Welcome to NMEP! This simple hub will give you access to all the slides, links a
 
 | Date | Lecture Slides | Homework | Topics |
 |------|----------------|----------|--------|
-|      |                |          |        |
-|      |                |          |        |
-|      |                |          |        |
+|09/15/2021|                |          |        |
+|09/20/2021|                |          |        |
+|09/27/2021|                |          |        |
