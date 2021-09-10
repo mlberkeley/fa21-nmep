@@ -12,8 +12,8 @@ Welcome to NMEP! This simple hub will give you access to all the slides, links a
 |10/18/2021|Conv. Nets Part 2          |          |Computer Vision        |
 |10/25/2021|Project Release             |          |        |
 |11/01/2021|Final Exam                    |          |Death        |
-|11/08/2021|Natural Language Processing|          |        |
-|11/15/2021|AI Ethics                        |          |        |
+|11/08/2021|Natural Language Processing and Transformers|          |        |
+|11/15/2021|Pipelining + AI Ethics                        |          |        |
 |11/22/2021|Reinforcement Learning|          |        |
 |09/29/2021|Unsupervised Learning + GANs|          |        |
 |12/06/2021|Project Presentation      |          |        |
