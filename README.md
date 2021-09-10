@@ -2,6 +2,8 @@
 
 Welcome to NMEP! This simple hub will give you access to all the slides, links and homeworks.
 
+## Syllabus
+
 | Date | Lecture Slides | Homework | Topics |
 |------          |----------------                |----------|--------|
 |09/15/2021|Intro to ML                     |          |Overview of ML        |
@@ -17,3 +19,5 @@ Welcome to NMEP! This simple hub will give you access to all the slides, links a
 |11/22/2021|Reinforcement Learning|          |        |
 |09/29/2021|Unsupervised Learning + GANs|          |        |
 |12/06/2021|Project Presentation      |          |        |
+
+## Research Papers
