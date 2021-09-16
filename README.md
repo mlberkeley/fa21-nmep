@@ -6,7 +6,7 @@ Welcome to NMEP! This simple hub will give you access to all the slides, links a
 
 | Date | Lecture Slides | Homework | Topics | Lecturer |
 |------          |----------------                |----------|--------|---------|
-|09/15/2021|Intro to ML                     |          |Overview of ML        | Tej |
+|09/15/2021|[Intro to ML](https://docs.google.com/presentation/d/19C2pPvI_En_kUdpmhgGlI91naU52DroQ7ef3hA85ThU/edit?usp=sharing)                    |          |Overview of ML        | Tej |
 |09/20/2021|Data                               |          |Data Cleaning, Feature Engineering | Harshika |
 |09/27/2021|Classical ML                  |          |SVM, Decision Trees, Random Forests        | Tej |
 |10/04/2021|Neural Network Basics  |          |Backpropagation        | Vedant |
